@@ -11,4 +11,6 @@
       「sudo service ssh start」
     * 確認
       「ssh XXXX@localhost
-
+* 鍵認証
+  * ~/.ssh/authorized_keys に公開鍵を置く
+  
