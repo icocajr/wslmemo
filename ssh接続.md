@@ -13,4 +13,5 @@
       「ssh XXXX@localhost
 * 鍵認証
   * ~/.ssh/authorized_keys に公開鍵を置く
-  
+* X11の転送を許可する：「-Y」オプションを指定
+  「ssh -Y XXXX@host
